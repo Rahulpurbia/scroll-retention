@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scroll-retention/static/css/main.0ba63128.css",
+    "main.js": "/scroll-retention/static/js/main.4b65d6e0.js",
+    "static/js/787.dfc419fa.chunk.js": "/scroll-retention/static/js/787.dfc419fa.chunk.js",
+    "index.html": "/scroll-retention/index.html",
+    "main.0ba63128.css.map": "/scroll-retention/static/css/main.0ba63128.css.map",
+    "main.4b65d6e0.js.map": "/scroll-retention/static/js/main.4b65d6e0.js.map",
+    "787.dfc419fa.chunk.js.map": "/scroll-retention/static/js/787.dfc419fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba63128.css",
+    "static/js/main.4b65d6e0.js"
+  ]
+}
